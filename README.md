@@ -23,13 +23,13 @@
 1. json-server 설치하기
 
    ```
-     yarn install
+     npm install json-server
    ```
 
 2. json-server 실행하기
 
    ```
-     yarn serve
+     npm run serve
    ```
 
 <b>(+) [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)으로도 사용해볼 수 있어요!</b>
@@ -38,8 +38,8 @@
 
 1. 이 레포지토리를 Clone 받으세요.
 2. npm install 을 통해 필요한 패키지를 다운받으세요
-3. npm run serve 를 통해 api 서버를 동작시키세요
-4. Live Server를 실행하세요.
+3. Live Server를 실행하세요.
+4. Json Server를 실행하세요.
 
 ## Bug
 
