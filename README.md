@@ -18,6 +18,20 @@
      live-server 실행할_파일들이_있는_폴더명
    ```
 
+#### 📌 Local에서 데이터베이스 서버 띄워보기(Json Server)
+
+1. json-server 설치하기
+
+   ```
+     yarn install
+   ```
+
+2. json-server 실행하기
+
+   ```
+     yarn serve
+   ```
+
 <b>(+) [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)으로도 사용해볼 수 있어요!</b>
 
 ## How To Start?
